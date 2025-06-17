@@ -1,0 +1,12 @@
+name: SmartflAI_Dashboard
+title: SmartflAI_Dashboard
+username: tandg-coveredcrops
+account: tandg-coveredcrops
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14702418
+bundleId: 10448538
+url: https://tandg-coveredcrops.shinyapps.io/SmartflAI_Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
